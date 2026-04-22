@@ -22,7 +22,8 @@
 
 
 ## **Foto**
-![img1](https://github.com/pdepviernestm/2026-tp0-grinfasmanuel/blob/c5cd0c8c7129b90a8fb45ce9a65d0e56b4eb692a/WhatsApp%20Image%202026-04-21%20at%2023.39.05.jpeg)
+<img width="727" height="990" alt="WhatsApp Image 2026-04-21 at 23 39 05" src="https://github.com/user-attachments/assets/a0089566-c2dd-4d48-a554-e4fe17c36eda" />
+
 
 ## **Foto de Obi**
 <img width="506" height="900" alt="IMG_20260202_222916" src="https://github.com/user-attachments/assets/f28daf30-93a1-4934-a2e9-c9bc5af9434f" />
