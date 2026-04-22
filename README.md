@@ -25,4 +25,4 @@
 ![img1](https://github.com/pdepviernestm/2026-tp0-grinfasmanuel/blob/c5cd0c8c7129b90a8fb45ce9a65d0e56b4eb692a/WhatsApp%20Image%202026-04-21%20at%2023.39.05.jpeg)
 
 ## **Foto de Obi**
-![img2](<img width="506" height="900" alt="IMG_20260202_222916" src="https://github.com/user-attachments/assets/f28daf30-93a1-4934-a2e9-c9bc5af9434f" />)
+<img width="506" height="900" alt="IMG_20260202_222916" src="https://github.com/user-attachments/assets/f28daf30-93a1-4934-a2e9-c9bc5af9434f" />
